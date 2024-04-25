@@ -35,7 +35,9 @@ We benchmarked 10 different machine learning algorithms to select the best perfo
 
 A comprehensive comparison of all tested models is provided in the included table, illustrating their performance in terms of various statistical metrics.
 
-![Model Comparison Table](Images/Comparaison.PNG)
+<div align="center">
+    <img src="Images/Comparaison.PNGg" alt="comp" width="500"/>
+</div>
 
 ## Results and Presentation
 
