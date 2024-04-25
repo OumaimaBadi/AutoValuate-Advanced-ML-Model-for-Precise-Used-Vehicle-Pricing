@@ -1,6 +1,6 @@
 # AutoValuate-Advanced-ML-Model-for-Precise-Used-Vehicle-Pricing
 <div align="center">
-    <img src="Images/Vehicule.jpg" alt="Vehicle" width="200"/>
+    <img src="Images/Vehicule.jpg" alt="Vehicle" width="600"/>
 </div>
 
 This repository contains the machine learning model developed during a 36-hour hackathon held on 2023-11-21, where our team was awarded the first prize. The model estimates the price of used vehicles before an expert appraisal, utilizing several advanced machine learning techniques to ensure high accuracy and reliability.
@@ -36,7 +36,7 @@ We benchmarked 10 different machine learning algorithms to select the best perfo
 A comprehensive comparison of all tested models is provided in the included table, illustrating their performance in terms of various statistical metrics.
 
 <div align="center">
-    <img src="Images/Comparaison.PNG" alt="comp" width="500"/>
+    <img src="Images/Comparaison.PNG" alt="comp"/>
 </div>
 
 ## Results and Presentation
