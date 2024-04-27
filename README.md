@@ -43,7 +43,7 @@ A comprehensive comparison of all tested models is provided in the included tabl
 
 Our model achieved excellent results, as detailed in the evaluation section of our presentation. The insights and methodologies are thoroughly documented and can be accessed via the link below:
 
-[Presentation Link]([https://example.com/presentation](https://www.canva.com/design/DAF0y22MwzI/GDUJSC4lO0EBc6hlUSoFdw/view?utm_content=DAF0y22MwzI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Presentation Link](https://www.canva.com/design/DAF0y22MwzI/GDUJSC4lO0EBc6hlUSoFdw/view?utm_content=DAF0y22MwzI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Repository Contents
 
